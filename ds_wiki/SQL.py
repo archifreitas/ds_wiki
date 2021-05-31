@@ -1,4 +1,3 @@
-import sqlite3
 
 def packages():
     return "Required packages: \n sqlite3"
